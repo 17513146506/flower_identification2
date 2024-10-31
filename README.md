@@ -1,5 +1,4 @@
 # flower_identification2
 flower_identification
 基于cnn卷积网络的植物识别
-联系人：郑州轻工业大学 周何彬
-1466284085
+作者： 1466284085@qq.com
